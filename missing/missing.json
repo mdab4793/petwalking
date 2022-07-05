@@ -1,13 +1,13 @@
 [
   {
-    "id": 1,
+    "id": 0,
     "title": "금천구 가산동에서 실종",
     "name": "맥스",
     "img": "https://github.com/mdab4793/petwalking/blob/master/missing/1.jpg?raw=true",
     "content": "애타게 찾고있습니다 ,공을 좋아하는 친구에요."
   },
   {
-    "id": 2,
+    "id": 1,
     "title": "금천구 시흥동에서 실종",
     "name": "은호",
     "img": "https://github.com/mdab4793/petwalking/blob/master/missing/2.jpg?raw=true",
@@ -15,7 +15,7 @@
     "content": "애타게 찾고있습니다 ,쥐를 좋아하는 친구에요."
   },
   {
-    "id": 3,
+    "id": 2,
     "title": "금천구 독산동에서 실종",
     "name": "재키",
     "img": "https://github.com/mdab4793/petwalking/blob/master/missing/3.jpg?raw=true",
@@ -23,21 +23,21 @@
     "content": "애타게 찾고있습니다 ,암컷을 좋아하는 친구에요."
   },
   {
-    "id": 4,
+    "id": 3,
     "title": "금천구 가산동에서 실종",
     "name": "라이",
     "img": "https://github.com/mdab4793/petwalking/blob/master/missing/4.jpg?raw=true",
     "content": "애타게 찾고있습니다 ,공을 좋아하는 친구에요."
   },
   {
-    "id": 1,
+    "id": 4,
     "title": "금천구 가산동에서 실종",
     "name": "맥스",
     "img": "https://github.com/mdab4793/petwalking/blob/master/missing/1.jpg?raw=true",
     "content": "애타게 찾고있습니다 ,공을 좋아하는 친구에요."
   },
   {
-    "id": 2,
+    "id": 5,
     "title": "금천구 시흥동에서 실종",
     "name": "은호",
     "img": "https://github.com/mdab4793/petwalking/blob/master/missing/2.jpg?raw=true",
@@ -45,7 +45,7 @@
     "content": "애타게 찾고있습니다 ,쥐를 좋아하는 친구에요."
   },
   {
-    "id": 1,
+    "id": 6,
     "title": "금천구 가산동에서 실종",
     "name": "맥스",
     "img": "https://github.com/mdab4793/petwalking/blob/master/missing/1.jpg?raw=true",
@@ -53,7 +53,7 @@
     "content": "애타게 찾고있습니다 ,공을 좋아하는 친구에요."
   },
   {
-    "id": 2,
+    "id": 7,
     "title": "금천구 시흥동에서 실종",
     "name": "은호",
     "img": "https://github.com/mdab4793/petwalking/blob/master/missing/2.jpg?raw=true",
@@ -61,7 +61,7 @@
     "content": "애타게 찾고있습니다 ,쥐를 좋아하는 친구에요."
   },
   {
-    "id": 3,
+    "id": 8,
     "title": "금천구 독산동에서 실종",
     "name": "재키",
     "img": "https://github.com/mdab4793/petwalking/blob/master/missing/3.jpg?raw=true",
