@@ -44,30 +44,5 @@
       "number": "010-0000-0000",
       "content": "애타게 찾고있습니다 ,쥐를 좋아하는 친구에요."
     }
-  ],
-  "info": [
-    {
-      "id": 1,
-      "title": "금천구 가산동에서 실종",
-      "name": "맥스",
-      "img": "https://github.com/mdab4793/petwalking/blob/master/missing/1.jpg?raw=true",
-      "number": "010-0000-0000",
-      "content": "애타게 찾고있습니다 ,공을 좋아하는 친구에요."
-    },
-    {
-      "id": 2,
-      "title": "금천구 시흥동에서 실종",
-      "name": "은호",
-      "img": "https://github.com/mdab4793/petwalking/blob/master/missing/2.jpg?raw=true",
-      "number": "010-0000-0000",
-      "content": "애타게 찾고있습니다 ,쥐를 좋아하는 친구에요."
-    },
-    {
-      "id": 3,
-      "title": "금천구 독산동에서 실종",
-      "name": "재키",
-      "img": "https://github.com/mdab4793/petwalking/blob/master/missing/3.jpg?raw=true",
-      "number": "010-0000-0000",
-      "content": "애타게 찾고있습니다 ,암컷을 좋아하는 친구에요."
-    }
+  
   ]
